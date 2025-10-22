@@ -23,7 +23,7 @@ This app allows users to **add**, **view**, **complete**, and **delete** tasks e
 ## 🛠️ Technologies Used
 - **Python 3.x**  
 - **JSON** for data storage
-- **tkinter** for GUI
+- **TKinterr** for GUI
 
 ---
 
