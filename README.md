@@ -31,7 +31,7 @@ This app allows users to **add**, **view**, **complete**, and **delete** tasks e
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/stavshaham/todo-list.git
    cd todo-list
    ```
    
