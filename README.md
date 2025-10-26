@@ -6,15 +6,15 @@ This app allows users to **add**, **view**, **complete**, and **delete** tasks e
 ---
 
 ## 🚀 Features
-- Add new tasks with ease  
+- Add new tasks with ease
+- Mark tasks as completed
 - Delete completed tasks  
 - View all pending tasks
-- Saves tasks locally for later use  
+- Saves tasks locally for later use
 
 ---
 
 ## 🔮 Future Improvements
-- Add completed tasks
 - Add due dates and priority levels  
 - Enable cloud sync for tasks
 
