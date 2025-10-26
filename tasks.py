@@ -12,7 +12,7 @@ def add_task(task):
     :type task: str
     :return: None
     """
-    tasks.append(task)
+    tasks.append({"name": task, "done": False})
     fh.save_data(tasks)
 
 # This function removes a task from tasks
@@ -32,9 +32,8 @@ def load_data_from_file():
     This function loads data from file.
     :return: None
     """
-    data = fh.load_data()
-    for task in data:
-        add_task(task)
+    global tasks
+    tasks = fh.load_data()
 
 # This function returns all tasks as a dictionary
 def view_tasks():
